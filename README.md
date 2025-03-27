@@ -1,1 +1,2 @@
-# typologie_inscriptions_grecques
+# Projet de détection et classification d'inscriptions grecques
+
